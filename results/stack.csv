@@ -1,0 +1,33 @@
+﻿Combinations,MLR,,PR[4],,DTR[6],,SVR[L]
+,MSE,EVS,MSE,EVS,MSE,EVS,MSE
+RFR,-,-,-,-,-,-,-
+ETR,-,-,-,-,-,-,-
+BAR,-,-,-,-,-,-,-
+GBR,-,-,-,-,-,-,-
+XGBR,-,-,-,-,-,-,-
+RFR, ETR,-,-,-,-,-,-,-
+RFR, BAR,-,-,-,-,-,-,-
+RFR, GBR,-,-,-,-,-,-,-
+RFR, XGBR,-,-,-,-,-,-,-
+ETR, BAR,-,-,-,-,-,-,-
+ETR, GBR,-,-,-,-,-,-,-
+ETR, XGBR,-,-,-,-,-,-,-
+BAR, GBR,-,-,-,-,-,-,-
+BAR, XGBR,-,-,-,-,-,-,-
+GBR, XGBR,-,-,-,-,-,-,-
+RFR, ETR, BAR,-,-,-,-,-,-,-
+RFR, ETR, GBR,-,-,-,-,-,-,-
+RFR, ETR, XGBR,-,-,-,-,-,-,-
+RFR, BAR, GBR,-,-,-,-,-,-,-
+RFR, BAR, XGBR,-,-,-,-,-,-,-
+RFR, GBR, XGBR,-,-,-,-,-,-,-
+ETR, BAR, GBR,-,-,-,-,-,-,-
+ETR, BAR, XGBR,-,-,-,-,-,-,-
+ETR, GBR, XGBR,-,-,-,-,-,-,-
+BAR, GBR, XGBR,-,-,-,-,-,-,-
+RFR, ETR, BAR, GBR,-,-,-,-,-,-,-
+RFR, ETR, BAR, XGBR,-,-,-,-,-,-,-
+RFR, ETR, GBR, XGBR,-,-,-,-,-,-,-
+RFR, BAR, GBR, XGBR,-,-,-,-,-,-,-
+ETR, BAR, GBR, XGBR,-,-,-,-,-,-,-
+RFR, ETR, BAR, GBR, XGBR,-,-,-,-,-,-,-
